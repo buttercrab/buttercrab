@@ -17,4 +17,6 @@
 
 <br/>
 
-<p align="center"><img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=buttercrab&show_icons=true" alt="buttercrab" /><img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /><p/>
+<p align="center"><img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=buttercrab&show_icons=true" alt="buttercrab" />&nbsp;
+&nbsp;
+<img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /><p/>
