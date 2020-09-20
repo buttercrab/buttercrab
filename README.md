@@ -20,4 +20,4 @@
 
 <p align="center"><img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=buttercrab&show_icons=true" alt="buttercrab" />&nbsp;
 &nbsp;
-<img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /><p/>
+<img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buttercrab&layout=compact" /><p/>
