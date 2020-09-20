@@ -13,8 +13,8 @@
 
 - ⚡ Fun fact: **I love learning new programming languages**
 
+- 🔭 I’m currently working on: **Translating [wtfpython](https://github.com/buttercrab/wtfpython-ko)**
+
 <br/>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=buttercrab&show_icons=true&hide_border=true" alt="buttercrab" /><p/>
-
-- 🔭 I’m currently working on: **Translating [wtfpython](https://github.com/buttercrab/wtfpython-ko)**
+<p align="center"><img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=buttercrab&show_icons=true" alt="buttercrab" /><img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /><p/>
