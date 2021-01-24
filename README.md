@@ -3,7 +3,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on: **Translating [wtfpython](https://github.com/buttercrab/wtfpython-ko), Learning Haskell**
+- 🔭 I’m currently working on: **Developing [Web Mighty](https://github.com/web-mighty-io/web-mighty), Translating [wtfpython](https://github.com/buttercrab/wtfpython-ko), Learning Haskell**
 
 - 🌱 I’m currently learning: **Clojure, Julia, Kotlin, Q#, Scala**
 
