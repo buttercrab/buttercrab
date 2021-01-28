@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **Clojure, Julia, Kotlin, Q#, Scala**
 
-- 🔭 Ask me about: **C, C++, Dart, Flutter, Go, Haskell, Java, JavaScript/TypeScript, Python, Rust, Swift**
+- 🔭 Ask me about: **C, C++, Dart, Flutter, Go, Haskell, Java, JavaScript/TypeScript, Shakespear Programming Language, Python, Rust, Swift, Wolfram Language**
 
 - 📫 How to reach me: **jaeyong0201@gmail.com**
 
