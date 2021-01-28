@@ -18,3 +18,5 @@
 <p align="center"><img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=buttercrab&show_icons=true" alt="buttercrab" />&nbsp;
 &nbsp;
 <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buttercrab&layout=compact" /><p/>
+
+![Metrics](https://metrics.lecoq.io/buttercrab?template=classic&languages=1&config.timezone=Asia%2FSeoul&config.animated=true)
