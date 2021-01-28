@@ -1,9 +1,6 @@
 <h2 align="center">Hi 👋, I'm Jaeyong Sung</h2>
 <h4 align="center">A highschool student from South Korea</h4>
 
-
-<br/>
-
 <table>
   <tr>
     <td>
