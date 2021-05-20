@@ -16,7 +16,7 @@
 
 - 📫 How to reach me: **jaeyong0201@gmail.com**
 
-- ⚡ Fun fact: **I love learning new programming languages & big fan of twice**
+- ⚡ Fun fact: **I love learning new programming languages**
 
     </td>
   </tr>
