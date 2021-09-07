@@ -14,7 +14,7 @@
 
 - 🔭 Ask me about: **C, C++, Dart, Flutter, Go, Haskell, Java, JavaScript/TypeScript, Shakespear Programming Language, Python, Rust, Swift, Wolfram Language**
 
-- 📫 How to reach me: **jaeyong0201@gmail.com**
+- 📫 How to reach me: **jaeyong0201@gmail.com**, **n__n@kaist.ac.kr**
 
 - ⚡ Fun fact: **I love learning new programming languages**
 
