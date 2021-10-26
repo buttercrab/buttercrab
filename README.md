@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on: **Developing [Web Mighty](https://github.com/web-mighty-io/web-mighty), Translating [wtfpython](https://github.com/buttercrab/wtfpython-ko)**
 
-- 🌱 I’m currently learning: **Clojure, Julia, Kotlin, Q#, Scala**
+- 🌱 I’m currently learning: **Clojure, Julia, Kotlin, Q#, Scala, Elixir**
 
 - 🔭 Ask me about: **C, C++, Dart, Flutter, Go, Haskell, Java, JavaScript/TypeScript, Shakespear Programming Language, Python, Rust, Swift, Wolfram Language**
 
