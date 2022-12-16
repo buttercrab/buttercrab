@@ -8,11 +8,11 @@
     </td>
     <td>
 
-- 🔭 I’m currently working on: **Developing [Web Mighty](https://github.com/web-mighty-io/web-mighty), Translating [wtfpython](https://github.com/buttercrab/wtfpython-ko)**
+- 🔭 I’m currently working on: **Maintaining Repositories & Studying**
 
-- 🌱 I’m currently learning: **Clojure, Julia, Kotlin, Q#, Scala, Elixir**
+- 🌱 I’m currently learning: **Julia, Elixir**
 
-- 🔭 Ask me about: **C, C++, Dart, Flutter, Go, Haskell, Java, JavaScript/TypeScript, Shakespear Programming Language, Python, Rust, Swift, Wolfram Language**
+- 🔭 Ask me about: **C, C++, Haskell, Java, JavaScript/TypeScript, Shakespear Programming Language, Python, Rust, Scala, Swift, Wolfram Language**
 
 - 📫 How to reach me: **jaeyong0201@gmail.com**, **n__n@kaist.ac.kr**
 
