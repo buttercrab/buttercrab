@@ -26,5 +26,6 @@ jobs:
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_details: lines
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
           commits_authoring: Jaeyong Sung, buttercrab, jaeyong@users.noreply.github.com
           plugin_achievements: yes
