@@ -29,3 +29,5 @@ jobs:
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
           commits_authoring: Jaeyong Sung, buttercrab, jaeyong@users.noreply.github.com
           plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_limit: 12
