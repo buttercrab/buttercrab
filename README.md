@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning: **Julia, Elixir**
 
-- 🔭 Ask me about: **C, C++, Haskell, Java, JavaScript/TypeScript, Shakespear Programming Language, Python, Rust, Scala, Swift, Wolfram Language**
+- 🔭 Ask me about: **C, C++, Rust, Go, Haskell, JS/TS, Shakespear Programming Language, Python, Scala, Swift, Wolfram Language**
 
 - 📫 How to reach me: **jaeyong0201@gmail.com**, **n__n@kaist.ac.kr**
 
